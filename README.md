@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Yashwanth 
+### Hi there 👋  I'm YASHWANTH
 
 <!--
 **yashwanth1110/yashwanth1110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,13 +8,15 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
+
+<h1 align="center">Hi 👋, I'm Yashwanth</h1>
 -->
 - 🔭 I’m currently working on DSA and Coding
 - 🌱 I’m currently learning Node and React
 - 📫 How to reach me: yashwanthmadavaram@gmail.com
 - 😄 Pronouns: He/Him
 
-<h1 align="center">Hi 👋, I'm Yashwanth</h1>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yashwanth-madavaram-9577a1220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashwanth1110" height="30" width="40" /></a>
