@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Yashwanth</h1>
 -->
-- 🔭 I’m currently working on Project for academics
-- 🌱 I’m currently learning DSA and Coding
+- 🔭 I’m currently working as Software Engineer
+- 🌱 I’m currently learning C# DOT NET
 - 📫 How to reach me: yashwanthmadavaram@gmail.com
 - 😄 Pronouns: He/Him
 
